@@ -1,4 +1,14 @@
 
+https://github.com/DwiRomadon/crudquasarmongodb/blob/master/src/pages/admin/home/EditDataBuku.vue
+
+https://laravel.com/docs/8.x/filesystem
+
+https://nicksilvestro.net/2016/05/28/adding-laravels-storage-facade-into-lumen/
+
+https://graker.ru/news/2020/02/17/private-file-storage-in-laravel
+
+
+
 
 <template>
   <q-page class="flex flex-center">
